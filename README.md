@@ -1,1 +1,1 @@
-# Sales-Dashboard
+Created a sales dashboard for the Big Fashion Group using Excel. It features interactive visualizations of sales by state, category, chain, and manager. Key insights include sales trends, geographic distribution, and category breakdowns.
